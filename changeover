@@ -1,6 +1,8 @@
-+     for &i or s or li etc etc...
++     for &i or s or li etc etc... It concatinates strings. Joins one to another
 print for printf
 
 from cs50 import get_string  for  #include <cs50.h> 
 
 #  for commenting out //
+
+nothing in place of semi colons  so semicolons no more!
