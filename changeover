@@ -2,7 +2,9 @@ Running the code
 python <filename>
 
 +     for %i", or %s", or %li", etc etc... It concatinates strings. Joins one to another
-print for printf
+print("Hello " + name) for printf("Hello %s," name);
+or
+print(f"hello {name}") for printf("Hello %s," name);
 
 from cs50 import get_string  for  #include <cs50.h> 
 
