@@ -5,6 +5,7 @@ python <filename>
 print("Hello " + name) for printf("Hello %s," name);
 or
 print(f"hello {name}") for printf("Hello %s," name);
+f is for format strings or f strings. 
 
 from cs50 import get_string  for  #include <cs50.h> 
 
