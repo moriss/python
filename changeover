@@ -1,7 +1,7 @@
 Running the code
 python <filename>
 
-+     for %i", or %s", or %li", etc etc... It concatinates strings. Joins one to another
+"+     for %i" , or %s" , or %li" , etc etc... It concatinates strings. Joins one to another
 print("Hello " + name) for printf("Hello %s," name);
 or
 print(f"hello {name}") for printf("Hello %s," name);
