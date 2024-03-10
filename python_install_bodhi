@@ -1,9 +1,44 @@
+This is apparantly fine for a 32 bit i686 system
 sudo apt update
 sudo apt install python3
 
 Install Python: Bodhi Linux usually comes with Python 2.x preinstalled, but it's recommended to use Python 3.x for learning Python as Python 2.x has reached its end of life. You can install Python 3.x by running:
 
 sudo apt install python3
+
+
+
+
+Install pip (Python Package Installer): Pip is a package manager for Python. You can install it by running:
+
+sudo apt install python3-pip
+
+
+
+
+**I didn't do this**
+Optional: Install Python Virtual Environment (venv): It's good practice to use virtual environments to manage Python dependencies for different projects. You can install venv by running:
+
+sudo apt install python3-venv
+***
+
+
+
+Verify Installation: You can verify that Python and pip are installed correctly by checking their versions:
+
+python3 --version
+pip3 --version
+
+
+THEY BOTH SEEMED TO SHOW THEY HAD BEEN INSTALLED 
+
+
+
+
+
+
+
+
 
 
 
