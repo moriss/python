@@ -16,7 +16,7 @@ sudo apt install python3-pip
 
 
 
-**I didn't do this**
+**I didn't do this. see benefits of using a virtual invironment below**
 Optional: Install Python Virtual Environment (venv): It's good practice to use virtual environments to manage Python dependencies for different projects. You can install venv by running:
 
 sudo apt install python3-venv
@@ -36,6 +36,19 @@ THEY BOTH SEEMED TO SHOW THEY HAD BEEN INSTALLED
 
 
 
+
+**Benefits of using a virtual environment**
+Isolation: Virtual environments allow you to create isolated environments for each of your Python projects. This means that the dependencies (such as libraries and packages) installed for one project are kept separate from those of another project. This isolation helps prevent conflicts between different versions of packages and ensures that each project has its own clean environment.
+
+Dependency Management: With virtual environments, you can easily manage dependencies specific to each project. You can install, upgrade, or remove packages within the virtual environment without affecting the global Python installation or other projects.
+
+Reproducibility: Virtual environments enable you to recreate the exact environment for a project on different machines or at different times. This ensures reproducibility of your code and helps avoid unexpected issues due to differences in environments.
+
+Testing and Development: Virtual environments are particularly useful for testing code in different environments or for developing applications that need specific versions of libraries. You can create a virtual environment with the required dependencies and test your code without worrying about conflicts with other projects or the global environment.
+
+Security: Virtual environments can enhance security by limiting the scope of access to system resources. If a project requires specific permissions or restricted access to certain resources, you can set up the virtual environment accordingly without affecting other projects or the system as a whole.
+
+Overall, virtual environments provide a convenient and flexible way to manage dependencies, isolate projects, ensure reproducibility, and enhance security in Python development. They are considered best practice for Python projects of any size or complexity.
 
 
 
