@@ -1,0 +1,10 @@
+sudo apt update
+sudo apt install python3
+
+Install Python: Bodhi Linux usually comes with Python 2.x preinstalled, but it's recommended to use Python 3.x for learning Python as Python 2.x has reached its end of life. You can install Python 3.x by running:
+
+sudo apt install python3
+
+
+
+
