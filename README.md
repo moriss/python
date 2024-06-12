@@ -10,3 +10,5 @@ This video explains it all
 https://www.youtube.com/watch?v=6uqgiFhW0Fs&list=PLi6KG1XeZGOemKoHWrm2rrEqAhmZnRxfd
 
 I have dowonloaded a python "framework" on carl's bodhi laptop. I will put the chatgpt instructions in a different file. 
+
+I'm currently working my way through his course. Notes on where I am are on phone>notein>at
