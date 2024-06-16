@@ -1,3 +1,8 @@
+16th june 24
+
+You have now clonded this repo to Carl. Your plan is to build this repo 
+whilst following Chuck Severence's course on Python. 
+
 python with doctor buck aka chuck severence
 
 I signed in with google(only option) at https://www.py4e.com/login
