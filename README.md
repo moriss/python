@@ -5,7 +5,7 @@ whilst following Chuck Severence's course on Python.
 
 python with doctor buck aka chuck severence
 
-I signed in with google(only option) at https://www.py4e.com/login
+I initially signed in with google(only option) at https://www.py4e.com/login
 
 He recomended learning python then C then it prepares the way for a degree etc. 
 
