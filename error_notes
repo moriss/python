@@ -1,0 +1,6 @@
+ee=input("Choose a number");
+int(ee)
+So, the error above is you didn't assign the int conversion to a variable.
+ee=int(ee);
+or
+bb=int(ee);
