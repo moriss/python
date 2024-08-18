@@ -1,0 +1,15 @@
+#You are onto page 2 of your notes
+#the if statement
+#Prompt user for working hours and rate per hour to calculate their gross pay
+#Convert 99 to a floating point number
+#Convert a variable with a value of 99 to a floating point number
+#Convert a string (of numbers) to an integer
+#Ask someone for their name and print  hello  name.
+#divide two variables
+
+ #Right a program that converts to US floor numbers from EU floor numberint("Let's divide some numbers");
+first_num =input("What is your first number ? ");
+sec_num = input("What is your second number ?");
+div = float(first_num)/float(sec_num);
+print("Your first number divided by your second number is: ",div);
+

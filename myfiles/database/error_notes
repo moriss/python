@@ -1,0 +1,15 @@
+After a condition you need a colon.
+ie: if x < 3:
+	print("x is greater than 3")
+else: print("x is not greater than 3")
+And if you don't place the correct tabs, you will get errors.
+
+Below is the only way this worked for me:
+num=input('pick a number! ')
+numb=int(num)
+if numb < 6 :
+        print('Your chosen  number is less than 6, it is ',numb)
+if numb > 6 :
+        print('Your number is over 6, it is',numb)
+print('this game is now over')
+ 
