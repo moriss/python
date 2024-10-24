@@ -1,0 +1,7 @@
+#Ddivide two variables
+
+firsT = input("Enter first number")
+seconD = input("Enter second number")
+dividE=int(firsT)/int(seconD)
+print(firsT, " divided by ",  seconD, "equals", dividE)
+
