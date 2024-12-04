@@ -1,0 +1,6 @@
+#MF:1  Find out what 'TYPE' some data is.23
+
+a=input("Type something" )
+d=type(a)
+print(d)
+

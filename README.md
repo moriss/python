@@ -1,18 +1,21 @@
 16th june 24
 
-CURRENT TASKS 
+KEEP THIS HERE 
 #############
-22 October 24:
-Exercise 3.2 using try and exept.
+Below is a link to one of chuck Severence's python videos.
 https://www.youtube.com/watch?v=-iUA4cCKRlM&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p&index=20
 ############
-MEMORY MUSCLE:
-25th September update:
-You realised it was more important to spend time on using memory muscle to write code. Therefore: Add exercises to try.py and attempt at least one before moving onto chuck's videos. 
+7th November 24
+Similar to C, you want to develop memory muscle in writing small functions. So for each explanation in try.py is a capital letter to be used as a folder name. Inside the folder is similarly named files numbered as follows:
+01.name Written simply
+02.name Written with def
+03.name Includes try and except
+You may add numbers as you go along as they increase in difficulty. 
+So you want to attempt 2 or 3 exercises before moving onto Chuck's videos. 
 
 A completed try.py can be 'saved as' in Chuck's py4e folder (exactly how he does it)
 
-Other things can be saved in myfiles within a certain folder.
+
 
 
 OLD TASKS

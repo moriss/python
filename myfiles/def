@@ -1,0 +1,9 @@
+ #Use def to store then run a function
+
+
+
+def ealge():
+        print("hello")
+
+ealge()
+

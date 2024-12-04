@@ -1,0 +1,5 @@
+def hello(value):
+        print("Hello ", value )
+
+hello(input("What is your name ?"))
+

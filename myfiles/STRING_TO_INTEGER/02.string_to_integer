@@ -1,0 +1,8 @@
+# 3 MF Convert a string(numbers) to an integer 3 STRING_TO_INTEGER
+
+def ang(x):
+        a=float(x)
+        print(a , "is a number ")
+
+ang(input("Type a number "))
+

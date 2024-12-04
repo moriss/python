@@ -1,0 +1,14 @@
+#Create a funtion that greets someone in their own language.(def)
+
+#Here, you can either use the input from src or the value you give to 'origin'
+src=input("Where are you from?")
+def lan(origin):
+        if origin=="Spain":
+                print("Ola!")
+        elif origin=="Italy":
+                print("Ciao!")
+        else: print("Hello!")
+
+
+lan(src)
+

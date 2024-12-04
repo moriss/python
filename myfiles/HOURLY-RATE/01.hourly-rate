@@ -1,0 +1,11 @@
+#MF:1 Calculate HOURLY-RATE with time and a half over 40 hours.123
+
+a=input("Hours worked ")
+b=input("Hourly Rate ")
+a=float(a)
+b=float(b)
+if (a > 40):
+        c=(a-40*0.5) + (a*b)
+else:
+        c=a*b
+print(c)

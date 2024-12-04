@@ -1,0 +1,12 @@
+
+#MF123 Convert 99 to a FLOATING point number 3
+
+def anfela(value):
+        a=float(value)
+        print(a)
+
+try:
+        anfela(hello)
+except:
+        anfela(99)
+

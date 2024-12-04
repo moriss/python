@@ -1,0 +1,5 @@
+# 1 MF Convert a string(numbers) to an integer 123 STRING_TO_INTEGER
+
+a=input("Type a number ")
+b=int(a)
+print(a , "is an integer ")

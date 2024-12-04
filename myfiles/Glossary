@@ -1,1 +1,8 @@
-quit() When you want to stop the program running, for example after a try and except when except needs to by utilised. 
+ 
+
+def = define a function
+
+max() = find the largest element
+
+
+quit() When you want to stop the program, for example after a try and except when except needs to by utilised.

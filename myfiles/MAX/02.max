@@ -1,0 +1,22 @@
+#MF: 12  Use MAX to find the largest value character345
+
+def axe(Hello):
+        if Hello == 'Nice':
+                print(max('Nice'))
+        elif Hello=='bad':
+                print(max(bad))
+        else:
+                print('No word match. Try again!')
+axe('button')
+
+
+#MF:12 Use max to find the largest value character
+
+
+#################
+
+def axel():
+        a=max("Jellow")
+        print(a)
+
+axel()

@@ -1,0 +1,12 @@
+
+#MF:1 Create a function that greets someone in their own LANGUAGE.12345
+
+a=input("How do you say hello ?")
+if(a=="Ola"):
+        print("Your are from spain ")
+elif(a=="Ciao"):
+        print("You are from Italy ")
+elif(a=="Aufwiedersehen "):
+        print("You are from Germany ")
+else:
+        print("I am not sure where you are from ")

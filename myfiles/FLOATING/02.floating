@@ -1,0 +1,6 @@
+def angela(value):
+        a=float(value)
+        print(a)
+
+angela(input("Type a number to convert to a float"))
+

@@ -1,0 +1,5 @@
+# 1 Ask someone for their name and print HELLO-NAME.23
+
+a=input("What is your name?")
+print("Hello",a)
+
