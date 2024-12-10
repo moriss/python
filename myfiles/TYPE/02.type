@@ -1,0 +1,8 @@
+
+#MF:12  Find out what TYPE some data is.2345
+def fan():
+        a=4
+        print(type(a))
+
+fan()
+

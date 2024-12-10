@@ -1,0 +1,12 @@
+
+#MF:1 Test user's number is under specified THRESHOLDS with elif. 2345
+
+a=input("Number:")
+b=int(a)
+if(b <10):
+        print(b,"is less than 20")
+elif(b<20):
+        print(b,"is less than 10")
+else:
+        print(b,"is over 20")
+
