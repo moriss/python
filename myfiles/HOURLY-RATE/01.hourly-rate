@@ -9,3 +9,21 @@ if (a > 40):
 else:
         c=a*b
 print(c)
+
+
+##################
+
+
+#MF:1 Calculate HOURLY RATE with time and a half over 40 hours.12345
+
+a=input("hours worked" )
+b=input("Hourly Rate ")
+hours_worked=int(a)
+hourly_rate=int(b)
+plustime=(hours_worked-40)*0.5
+standard_wage=hours_worked*hourly_rate
+if(hours_worked>40):
+        print(standard_wage+plustime)
+else:
+        print(standard_wage)
+

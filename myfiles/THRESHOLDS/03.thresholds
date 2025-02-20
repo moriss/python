@@ -1,0 +1,17 @@
+#MF:123  Test user's number is under specified THRESHOLDS with elif. 345
+def ang(splin):
+        try:
+                splin = splin + 1
+        except:
+                splin =float(splin)
+        if(splin < 5):
+                print(splin , "is less than 5 ")
+        elif(splin < 10):
+                print(splin , "is less than 10")
+        elif(splin < 20):
+                print(splin , "is less than 20")
+        else:
+                print(splin , "is a very high number ")
+
+ang(input("Type a number"))
+

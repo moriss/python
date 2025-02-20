@@ -6,3 +6,7 @@ max() = find the largest element
 
 
 quit() When you want to stop the program, for example after a try and except when except needs to by utilised.
+
+ValueError :Happens when a function gets the right kind of data (like a string or a number) but the value isn't usable. (eg: trying to turn "Hello" into a number. I've used this in my STRING_TO_INTEGER 3.
+
+ref:chat Python Try Except Quit > keyphrase: "You don't have to explicitly type ValueError 

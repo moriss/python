@@ -1,0 +1,15 @@
+# MF:12 Use the print option to greet people in their own LANGUAGE.2345
+
+def lepard(intr):
+        if intr== "Spanish":
+                print("Ola")
+        elif intr== "French":
+                print("Bonjour")
+        elif intr== "German":
+                print("Aufviedersehen")
+        else:
+                print("I don't kow where you are from ")
+
+lepard(input("What nationality are you ?"))
+
+

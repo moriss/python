@@ -1,0 +1,15 @@
+
+#Worked ex.4.6 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay
+
+def computepay(hours,rate):
+        hours=float(hours)
+        rate=float(rate)
+        if(hours > 40):
+                overtime = (hours - 40) * (rate  * 0.5) + (hours * rate)
+                return overtime
+        else:
+                return hours * rate
+
+wage = computepay(input("Weekly Hours"), input("Hourly Rate"))
+print(wage)
+

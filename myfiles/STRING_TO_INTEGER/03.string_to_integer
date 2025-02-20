@@ -1,0 +1,9 @@
+# 3 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 345
+# Remember that all input numbers are seen as a string and needs converting to a
+n integer.
+def hom(something):
+        try:
+                something=int(something) #Try turning the input into an int
+        except ValueError: #run the except if someone typed a word or letter
+                print("ValueError: Invalid Input!")
+hom(input("type a number"))

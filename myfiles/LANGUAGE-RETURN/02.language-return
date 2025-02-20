@@ -1,0 +1,13 @@
+#2 Use return values to greet people in there own language. LANGUAGE_RETURN.123456
+
+def argun(a):
+        if(a=="Spain"):
+                return "Ola"
+        elif(a=="Italy"):
+                return "Ciao"
+        elif(a=="UK"):
+                return "Hello"
+        else:
+                return "I don't know where you are from"
+
+

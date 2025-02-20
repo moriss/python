@@ -1,0 +1,8 @@
+#4=With an input value
+
+def mix(into):
+        into=float(into)
+        print(into)
+
+mix(input("Type a number for float conversion"))
+

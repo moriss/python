@@ -1,0 +1,8 @@
+# 1 Use TRYANDEXCEPT to catch a value error. 2345
+a=input("Type a number")
+try:
+        print(a + 4)
+except:
+        print("Python treats an input as a string even thought you have typed a number")
+
+

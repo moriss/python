@@ -1,0 +1,8 @@
+def ine(ax):
+        try:
+                ax=ax-5
+        except:
+                print(type(ax))
+
+ine(input("Enter a number"))
+

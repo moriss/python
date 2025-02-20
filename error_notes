@@ -1,3 +1,8 @@
+8th December 25
+Where there are no spaces between '> and a number or variable, throws up an error. a<4 is an error. a < 4 works fine.
+
+
+
 ee=input("Choose a number");
 int(ee)
 So, the error above is you didn't assign the int conversion to a variable.
