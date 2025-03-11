@@ -1,8 +1,0 @@
-#Convert to US floor numbers from EU floor numbers
-
-
-eu=input("Enter the eu floor Number ")#Answer is a string by default.
-eu = int(eu)#Convert string to integer.
-us = (eu + 1)#Add one to user's input. 
-print("The US equivalent floor number is ",us)
-

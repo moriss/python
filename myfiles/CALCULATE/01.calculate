@@ -1,0 +1,8 @@
+#MF 1 CALCULATE two variables 12345
+
+a=8
+b=8
+a,b=float(a),float(b)
+print(a*b)
+
+

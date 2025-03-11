@@ -1,0 +1,8 @@
+#  1Convert to us FLOOR_NUMBER from EU floor numbers 123456
+
+floor=input("what eu floor are you on")
+eu_floor=float(floor)
+us_floor=float(floor)-1
+print("You are on " +  us_floor+ )
+
+

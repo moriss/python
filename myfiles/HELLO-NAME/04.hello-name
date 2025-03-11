@@ -1,0 +1,9 @@
+#MF 1234 Ask someone for their name and print HELLO-NAME. 45
+
+def sln(htup):
+        return ("Hello " + htup)
+
+a=sln(input("What is your name?"))
+print(a)
+
+

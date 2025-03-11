@@ -1,0 +1,9 @@
+#  2 Use TRYANDEXCEPT to catch a value error. 2345
+def atn(stump):
+        try: print(stump-1)
+        except: print("Invalid input")
+        quit()
+d=atn(input("type a number"))
+print(d)
+
+

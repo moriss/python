@@ -1,0 +1,11 @@
+# 4 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 5
+
+def nim(axl):
+        try:
+                return float(axl)
+        except:
+                return "Invalid Input"
+
+
+a=nim(input("Type a number "))
+prin

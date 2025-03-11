@@ -1,0 +1,12 @@
+#MF 12345 Convert a value to a FLOATING point number  5
+
+def anl(slm):
+        try:
+                return float(slm)
+        except:
+                return "Invalid Input"
+
+a=anl(10)
+
+print(a)
+

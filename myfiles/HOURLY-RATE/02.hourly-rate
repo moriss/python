@@ -1,0 +1,13 @@
+#MF: 12 Calculate HOURLY RATE with time and a half over 40 hours.2345
+
+def sink(perth,talk):
+        if (perth > 40):
+                extra = (perth - 40) * (talk * 0.5)
+                wage =  extra + (perth * talk)
+        else:
+                wage =(perth * talk)
+        return wage
+
+print(sink(50,10))
+
+
