@@ -1,0 +1,11 @@
+#MF:3 Use MAX to find the largest value character 3456 Level:V1
+def sln(sitx):
+        try:
+                if not sitx:
+                        raise ValueError("Input is Empty!")
+                print(max(sitx))
+        except ValueError as e:
+                print(e)
+
+sln("")
+

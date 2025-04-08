@@ -13,3 +13,20 @@ def computepay(hours,rate):
 wage = computepay(input("Weekly Hours"), input("Hourly Rate"))
 print(wage)
 
+
+
+#2 Worked ex.4.6 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay2345
+
+def ing(hours,rate):
+        wage = hours * rate
+        if(hours > 40):
+                extra_hours=hours - 40
+                print("hours = " + str(hours) + "Rate = " + str(rate) + "Extra Hours = " + str(extra_hours))
+                print((wage)+(extra_hours * rate * 0.5))
+        else:
+                print(hours * rate)
+
+a = ing(50,10)
+print(a)
+
+

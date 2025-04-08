@@ -1,0 +1,18 @@
+def sli(onl):
+        try:
+                if not onl:
+                        raise ValueError ("This field is empty")
+                if(onl=="Italian"):
+                        print("Ciao")
+                elif(onl=="French"):
+                        print("Bonjour")
+                elif(onl=="German"):
+                        print("Guten tag")
+                else:
+                        print("Language unknown")
+        except ValueError as e:
+                print(e)
+
+sli("")
+
+
