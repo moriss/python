@@ -1,0 +1,18 @@
+#MF:4  Test user's number is under specified THRESHOLDS with elif. 45 V1
+def trx(alin):
+        try:
+                if not alin:
+                        raise ValueError("No input entered")
+                alin = int(alin)
+                if alin < 1:
+                        print("less than 1")
+                elif alin < 5:
+                        print("Less than 5")
+                else:
+                        print("Over 5")
+        except ValueError as e:
+                print(e)
+
+trx(input("Type a number"))
+
+

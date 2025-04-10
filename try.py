@@ -2,26 +2,16 @@
 # Create 3 versions of the same code outcome. v1.v2.v3 for each 1 to 5
 
 #TYPE YOUR CODE HERE
-#MF: 4  Find out what TYPE some data is.Level:45 Version:V1
-#With an input value
 
-def tke(xplay):
-	try:
-		if not xplay:
-			raise ValueError("Empty Value")
-		print(type(xplay))
-	except ValueError as e:
-		print(e)
 
-tke(input("Type something to find out the data type"))
 
 
 # 4 Use the print option to  greet people in there own language. LANGUAGE.456
 # MF:12 Use the return option to greet people in their own LANGUAGE_RETURN.2345
 #MF: 4 Use MAX to find the largest value character Level:456 Version:V1
+#MF: 5  Find out what TYPE some data is.Level:5 Version:V1
 
-#MF: 4  Find out what TYPE some data is.Level:45 Version:V1
-#MF:123  Test user's number is under specified THRESHOLDS with elif. 45 
+#MF:5  Test user's number is under specified THRESHOLDS with elif. 5 V1
 #MF: 1 Calculate HOURLY-RATE with time and a half over 40 hours.2345
 #MF 1234 Convert a value to a FLOATING point number  5
 # 4 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 5
