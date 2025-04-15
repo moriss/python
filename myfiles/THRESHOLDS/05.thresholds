@@ -1,0 +1,18 @@
+#MF:5  Test user's number is under specified THRESHOLDS with elif. 5 V1
+#With a return value
+
+def tci(bottle):
+        try:
+                if not bottle:
+                        raise ValueError("No input")
+                bottle = int(bottle)
+                if bottle < 1:
+                        return "Less than 1"
+                else:
+                        return "Over 1"
+        except ValueError as e:
+                return e
+
+a=tci("0")
+print(a)
+

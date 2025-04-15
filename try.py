@@ -2,6 +2,16 @@
 # Create 3 versions of the same code outcome. v1.v2.v3 for each 1 to 5
 
 #TYPE YOUR CODE HERE
+#MF: 1 Calculate HOURLY-RATE with time and a half over 40 hours.2345
+#DO THIS OVER 2 DAYS
+a=input("How many Hours do you work?")
+a=int(a)
+b=input("How much are you paid per hour?")
+b=int(b)
+if (a > 40):
+	print("Slam")
+else:
+	print(a*b)
 
 
 
@@ -10,9 +20,9 @@
 # MF:12 Use the return option to greet people in their own LANGUAGE_RETURN.2345
 #MF: 4 Use MAX to find the largest value character Level:456 Version:V1
 #MF: 5  Find out what TYPE some data is.Level:5 Version:V1
+#MF:1  Test user's number is under specified THRESHOLDS with elif. 12345 V2
 
-#MF:5  Test user's number is under specified THRESHOLDS with elif. 5 V1
-#MF: 1 Calculate HOURLY-RATE with time and a half over 40 hours.2345
+#MF: 2 Calculate HOURLY-RATE with time and a half over 40 hours.2345 V1
 #MF 1234 Convert a value to a FLOATING point number  5
 # 4 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 5
 #MF 1234 Ask someone for their name and print HELLO-NAME. 5
