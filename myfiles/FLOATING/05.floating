@@ -1,5 +1,24 @@
 #MF 12345 Convert a value to a FLOATING point number  5
 
+#MF 5 Convert a value to a FLOATING point number  5 v1
+#With a return value
+def sink(slap):
+        try:
+                if not slap:
+                        raise ValueError ("Field is empty")
+                slap = float(slap)
+                return slap
+        except ValueError as e:
+                return e
+
+a = sink("15")
+pri
+
+
+
+
+
+
 def anl(slm):
         try:
                 return float(slm)

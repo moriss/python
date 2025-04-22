@@ -1,5 +1,24 @@
 #MF: 12 Calculate HOURLY RATE with time and a half over 40 hours.2345
 
+#MF: 2 Calculate HOURLY-RATE with time and a half over 40 hours.2345 V1
+def hag(rate,hours):
+        rate=int(rate)
+        hours=int(hours)
+        wage = rate * hours
+        if hours > 40:
+                extra = (hours - 40) * (10 * 0.50)
+                wage = extra + wage
+                print(wage)
+        else:
+                print(wage)
+
+hag(10,50)
+
+
+
+
+
+
 def sink(perth,talk):
         if (perth > 40):
                 extra = (perth - 40) * (talk * 0.5)
