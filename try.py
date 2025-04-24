@@ -2,19 +2,9 @@
 # Create 3 versions of the same code outcome. v1.v2.v3 for each 1 to 5
 
 #TYPE YOUR CODE HERE
-#MF 5 Convert a value to a FLOATING point number  5 v1
-#With a return value
-def sink(slap):
-	try:
-		if not slap:
-			raise ValueError ("Field is empty")
-		slap = float(slap)
-		return slap
-	except ValueError as e:
-		return e
 
-a = sink("15")
-print(a)
+
+
 
 # 4 Use the print option to  greet people in there own language. LANGUAGE.456
 # MF:12 Use the return option to greet people in their own LANGUAGE_RETURN.2345
@@ -22,9 +12,9 @@ print(a)
 #MF: 5  Find out what TYPE some data is.Level:5 Version:V1
 #MF:1  Test user's number is under specified THRESHOLDS with elif. 12345 V2
 #MF: 2 Calculate HOURLY-RATE with time and a half over 40 hours.2345 V1
-
 #MF 1 Convert a value to a FLOATING point number 1234 5 v2
-# 4 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 5
+# 1 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 12345 v2
+
 #MF 1234 Ask someone for their name and print HELLO-NAME. 5
 # 2 CALCULATE two variables 2345
 #  2Convert to US FLOOR_NUMBER from EU floor numbers 23456

@@ -1,0 +1,14 @@
+# 5 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 5 v1
+#WITH A RETURN VALUE
+def chik(vlue):
+        try:
+                if not vlue:
+                        raise ValueError ("Empty input")
+                vlue=int(vlue)
+                return vlue
+        except ValueError as e:
+                return e
+
+a = chik(input("Type something"))
+print(a)
+
