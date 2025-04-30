@@ -1,0 +1,13 @@
+#MF 1234 Ask someone for their name and print HELLO-NAME. 5
+#with a return value
+def sink(name):
+        try:
+                if not name:
+                        raise ValueError("Empty Field")
+                return name
+        except ValueError as e:
+                return e
+
+a=sink(input("What is your name"))
+print(a)
+

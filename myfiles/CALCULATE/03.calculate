@@ -1,0 +1,15 @@
+# 3 CALCULATE two variables 3345 v1
+def slop(a,b):
+        try:
+                if not a or not b:
+                        raise ValueError("No input in at lease 1 field")
+                a=int(a)
+                b=int(a)
+                answer = a*b
+                print(answer)
+        except ValueError as e:
+                print(e)
+
+slop(input("First_number ") , input("Second_number"))
+
+
