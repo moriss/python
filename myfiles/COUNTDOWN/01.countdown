@@ -1,0 +1,10 @@
+# 1  Create a COUNTDOWN from n to zero with a loop 12345 v1
+
+n = 8
+while (n > 0):
+        print(n)
+        n=n-1
+print("Done")
+print(n)
+
+

@@ -1,0 +1,11 @@
+#  2Convert to US FLOOR_NUMBER from EU floor numbers 23456 v1
+ 9 def slt(wango,slm):
+10         if wango == "US":
+11                 slm = slm + 1
+12                 print(slm)
+13         elif wango == "UK":
+14                 print(slm)
+15
+16 slt("UK",4)
+17
+

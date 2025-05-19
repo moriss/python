@@ -1,0 +1,17 @@
+ # 3 Worked ex.4.6 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay345
+    v1
+ 9 def sln(rate , hours):
+10         try:
+11                 if not rate or not hours:
+12                         raise ValueError ("No data inputed")
+13                 if hours > 40:
+14                         otime = hours - 40
+15                         wage = (rate * hours) + (otime * rate * 0.5)
+16                 else:
+17                         wage = rate * hours
+18                 print(wage)
+19         except ValueError as a:
+20                 print(a)
+21 sln(10,50)
+22
+

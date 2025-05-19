@@ -1,3 +1,11 @@
+6th May 25
+You forgot quotes around strings
+slm("tango",4)
+tango is a string (word in this case) to be identified, ie if slm == "tango" ....
+So strings need quotations
+
+
+
 After a condition you need a colon.
 ie: if x < 3:
 	print("x is greater than 3")

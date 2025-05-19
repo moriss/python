@@ -1,0 +1,15 @@
+# 2 CALCULATE two variables 2345 v1
+#written with def
+
+def sling(strap,tap):
+        try:
+                if not strap or not tap:
+                        raise ValueError("No input in one or more fields")
+                strap=int(strap)
+                tap = int(tap)
+                answr=strap*tap
+                print(answr)
+        except ValueError as e:
+                print(e)
+
+sli
