@@ -1,0 +1,55 @@
+# 5  Find out what TYPE some data is.5 v1
+ 9 def slp(azon):
+10         try:
+11                 if not azon:
+12                         raise ValueError ("Zero input waarning!")
+13                 return type(azon)
+14         except ValueError as c:
+15                 return c
+16
+17 a=slp('')
+18 print(a)
+
+
+ # 5  Find out what TYPE some data is.5 v1
+ 9 def slp(azon):
+10         try:
+11                 if not azon:
+12                         raise ValueError ("Zero input waarning!")
+13                 return type(azon)
+14         except ValueError as c:
+15                 return c
+16
+17 a=slp('f')
+18 print(a)
+
+
+ # 5  Find out what TYPE some data is.5 v1
+ 9 def slp(azon):
+10         try:
+11                 if not azon:
+12                         raise ValueError ("Zero input waarning!")
+13                 return type(azon)
+14         except ValueError as c:
+15                 return c
+16
+17 a=slp(8)
+18 print(a)
+
+
+ # 5  Find out what TYPE some data is.5 v1
+ 9 def slp(azon):
+10         try:
+11                 if not azon:
+12                         raise ValueError ("Zero input waarning!")
+13                 return type(azon)
+14         except ValueError as c:
+15                 return c
+16
+17 a=slp(input("Type something. It will be a string not matter what"))
+18 print(a)
+
+19
+
+19
+

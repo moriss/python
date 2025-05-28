@@ -1,0 +1,11 @@
+ def lik(slt):
+11         try:
+12                 if not slt:
+13                         raise ValueError("zero input warning")
+14                 a=max(slt)
+15                 return a
+16         except ValueError as a:
+17                 print(a)
+18
+19 b=lik(input("Print a few letters"))
+20 pri

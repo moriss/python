@@ -5,13 +5,17 @@
 #v1=just easy v2=concatination v3=some shorthand
 
 #TYPE YOUR CODE HERE
+# 1  Find out what TYPE some data is 1 v2
+a=3
+b="Hello"
+d='a'
+print(type(a) , type(b) , type(d))
 
 
 # 4 Use the print option to  greet people in there own language. LANGUAGE.456 v1
+# 5 Use MAX to find the largest value character Level: 56 Version:V1
 
-# 3 Use the return option to greet people in their own LANGUAGE_RETURN.345 v1
-# 4 Use MAX to find the largest value character Level:456 Version:V1
-# 5  Find out what TYPE some data is.Level:5 Version:V1
+# 1  Find out what TYPE some data is 1 v2
 # 1  Test user's number is under specified THRESHOLDS with elif. 12345 V2
 # 2 Calculate HOURLY-RATE with time and a half over 40 hours.2345 V1
 # 1 Convert a value to a FLOATING point number 1234 5 v2
@@ -22,5 +26,3 @@
 # 3 Convert to US FLOOR_NUMBER from EU floor numbers 3456 v1
 # 4 Use TRYANDEXCEPT to catch a value error. 45 v1
 # 4 Worked ex.4.6 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay45 v1
-
-
