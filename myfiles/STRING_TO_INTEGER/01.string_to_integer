@@ -1,5 +1,12 @@
-# 1 MF Convert a string(numbers) to an integer 123 STRING_TO_INTEGER
+# 1 MF Convert a string(numbers) to an integer 123 STRING_TO_INTEGER v1
 
 a=input("Type a number ")
 b=int(a)
 print(a , "is an integer ")
+
+
+# 1 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 12345 v1
+10 a=input("Enter a number")
+11 a=int(a)
+12 print(a+1)
+

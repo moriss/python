@@ -1,0 +1,5 @@
+# 2 Convert a value to a FLOATING point number 1234 5 v1
+10 a=3
+11 print(float(a))
+12
+

@@ -30,3 +30,17 @@ def sink(perth,talk):
 print(sink(50,10))
 
 
+# 2 Calculate HOURLY-RATE with time and a half over 40 hours.2345 V1
+10 def slp(hours,rate):
+11         if hours > 40:
+12                 extra = hours - 40
+13                 wage = (rate * hours) + (rate * extra * 0.5)
+14                 print(wage)
+15         else:
+16                 wage = hours * rate
+17                 print(wage)
+18
+19 slp(50,10)
+
+
+

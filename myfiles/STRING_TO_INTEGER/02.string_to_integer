@@ -1,8 +1,18 @@
-# 3 MF Convert a string(numbers) to an integer 3 STRING_TO_INTEGER
+# 2 MF Convert a string(numbers) to an integer 2 STRING_TO_INTEGER v1
 
 def ang(x):
         a=float(x)
         print(a , "is a number ")
 
 ang(input("Type a number "))
+
+
+
+ # 2 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 2345 v1
+10 def lepard(split):
+11         split = int(split)
+12         print(split + 1)
+13
+14 lepard(input("Give me a number"))
+15
 

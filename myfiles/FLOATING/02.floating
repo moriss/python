@@ -4,3 +4,15 @@ def angela(value):
 
 angela(input("Type a number to convert to a float"))
 
+
+
+
+
+# 2 Convert a value to a FLOATING point number 1234 5 v1
+10 def slp(a):
+11         a=3
+12         print(float(a))
+13
+14 slp(34)
+15
+

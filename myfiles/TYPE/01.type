@@ -4,4 +4,6 @@ a=input("Type something" )
 d=type(a)
 print(d)
 
-#V2 = Change the type of data  
+#v2 This allows you to find the type directly without storing the data in a variable
+10 print(type('3'))
+
