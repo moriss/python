@@ -1,0 +1,15 @@
+#THIS TESTS FOR EMPTY VARIABLES  
+def lepard(ang,sing):
+12         try:
+13                 if not ang or not sing:
+14                         raise ValueError("Empty Input")
+15                 ang = int(ang)
+16                 sing = int(sing)
+17                 answer = ang * sing
+18                 print(answer)
+19
+20         except ValueError as e:
+21                 print(e)
+22
+23 lepard(2,3)
+

@@ -6,12 +6,6 @@
 #STICK WITH V1 UNTIL YOU FEEL CONFIDENT
 
 #TYPE YOUR CODE HERE
-# 2 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 2345 v1
-def lepard(split):
-	split = int(split)
-	print(split + 1)
-
-lepard(input("Give me a number"))
 
 # 4 Use the print option to  greet people in there own language. LANGUAGE.456 v1
 # 5 Use MAX to find the largest value character Level: 56 Version:V1
@@ -19,9 +13,9 @@ lepard(input("Give me a number"))
 # 2  Test user's number is under specified THRESHOLDS with elif. 2345 V1
 # 3 Calculate HOURLY-RATE with time and a half over 40 hours. 345 V1
 # 3 Convert a value to a FLOATING point number 345 v1
-
 # 2 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 2345 v1
-# 1 Ask someone for their name and print HELLO-NAME. 12345 v1
+# 2 Ask someone for their name and print HELLO-NAME. 2345 v1
+
 # 4 CALCULATE two variables 45 v1
 # 2  Create a COUNTDOWN from n to zero with a loop 2345 v1
 # 3 Convert to US FLOOR_NUMBER from EU floor numbers 3456 v1
