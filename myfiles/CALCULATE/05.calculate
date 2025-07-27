@@ -1,0 +1,17 @@
+# 5 CALCULATE two variables 5 v1
+10 #DEF, TRY AND EXCEPT, INPUT VALUE, RETURN VALUE
+11 def lepard(sting,stang):
+12         try:
+13                 if not sting or not stang:
+14                         raise ValueError("No input on one or both prompts")
+15                 sting = int(sting)
+16                 stang = int(stang)
+17                 answer = sting * stang
+18                 return answer
+19         except ValueError as e:
+20                 return e
+21
+22 answer=(lepard(input("Type your first number"),input("type yoiur second number")))
+23 print(answer)
+24
+

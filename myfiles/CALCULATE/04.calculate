@@ -1,0 +1,14 @@
+ # 4 CALCULATE two variables 45 v1
+10 #WITH DEF, TRY AND EXCEPT, INPUT VALUE
+11 def lepard(slax,button):
+12         try:
+13                 if not slax or not button:
+14                         raise ValueError("Zero input received")
+15                 slax=int(slax)
+16                 print(slax*button)
+17         except ValueError as c:
+18                 print(c)
+19
+20 lepard(input("first number"),4)
+21
+

@@ -1,0 +1,9 @@
+# 2  Create a COUNTDOWN from n to zero with a loop 2345 v1
+10 def lepard(sin):
+11         while (sin > 0):
+12                 print(sin)
+13                 sin = sin - 1
+14
+15 lepard(8)
+16
+
