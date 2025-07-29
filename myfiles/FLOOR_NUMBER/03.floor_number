@@ -1,0 +1,13 @@
+ # 3 Convert to US FLOOR_NUMBER from EU floor numbers 3456 v1
+10 def lepard(UK):
+11         try:
+12                 if not UK:
+13                         raise ValueError("Not a string")
+14                 UK = int(UK)
+15                 US = UK + 1
+16                 print(UK,US)
+17         except ValueError as e:
+18                 print(e)
+19
+20 lepard(input("Give me the UK floor number to convert:"))
+

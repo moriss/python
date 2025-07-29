@@ -6,13 +6,6 @@
 #STICK WITH V1 UNTIL YOU FEEL CONFIDENT
 
 #TYPE YOUR CODE HERE
-# 3  Create a COUNTDOWN from n to zero with a loop 345 v1
-def lepard(sin):
-	while (sin > 0):
-		print(sin)
-		sin = sin - 1
-
-lepard(8)
 
 
 # 4 Use the print option to  greet people in there own language. LANGUAGE.456 v1
@@ -25,8 +18,8 @@ lepard(8)
 # 2 Ask someone for their name and print HELLO-NAME. 2345 v1
 # 1 CALCULATE two variables 1 v2
 # 3  Create a COUNTDOWN from n to zero with a loop 345 v1
+# 4 Convert to US FLOOR_NUMBER from EU floor numbers 456 v1
 
-# 3 Convert to US FLOOR_NUMBER from EU floor numbers 3456 v1
 # 4 Use TRYANDEXCEPT to catch a value error. 45 v1
 # 4 Worked ex.4.6 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay45 v1
 
