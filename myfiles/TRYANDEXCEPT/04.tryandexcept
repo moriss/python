@@ -1,0 +1,11 @@
+ # 4 Use TRYANDEXCEPT to catch a value error. 45 v1
+10 def lepard(x):
+11         try:
+12                 if not x:
+13                         raise ValueError("zero input")
+14                 print(x)
+15         except ValueError as e:
+16                 print(e)
+17
+18 lepard(input("type a number"))
+

@@ -1,0 +1,10 @@
+# 1 Worked ex.4.6 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay45 v1
+10 def lepard(hours,rate):
+11         if (hours > 40):
+12                 extra = (hours - 40) * rate / 0.50
+13                 print(hours * rate + (extra))
+14         else:
+15                 print(hours * rate)
+16
+17 lepard (42,10)
+

@@ -6,9 +6,10 @@
 #STICK WITH V1 UNTIL YOU FEEL CONFIDENT
 
 #TYPE YOUR CODE HERE
-
+		
 
 # 4 Use the print option to  greet people in there own language. LANGUAGE.456 v1
+
 # 5 Use MAX to find the largest value character Level: 56 Version:V1
 # 2  Find out what TYPE some data is 2345 v1
 # 2  Test user's number is under specified THRESHOLDS with elif. 2345 V1
@@ -19,11 +20,11 @@
 # 1 CALCULATE two variables 1 v2
 # 3  Create a COUNTDOWN from n to zero with a loop 345 v1
 # 4 Convert to US FLOOR_NUMBER from EU floor numbers 456 v1
+# 5 Use TRYANDEXCEPT to catch a value error. 5 v1
+# 2 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay 2345 v1
 
-# 4 Use TRYANDEXCEPT to catch a value error. 45 v1
-# 4 Worked ex.4.6 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay45 v1
 
-
+#LETS ASK CHAT (AS WITH C) TO CLARIFY WAY FORWARD WITH FUTURE LEVELS
 #Apply useful/relevant functions below at level 4
 #type() asks for the type of data it is
 #len() Gives the length of data
