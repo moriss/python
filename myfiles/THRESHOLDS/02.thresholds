@@ -1,5 +1,21 @@
 
-#MF:1 Test user's number is under specified THRESHOLDS with elif. 2345
+#MF:2 Test user's number is under specified THRESHOLDS with elif. 2345
+
+
+10 def lepard(x):
+11         if x > 1 and x < 5:
+12                 print("It is greater than 1 but less than 5")
+13         elif x > 5 and x < 10:
+14                 print("It is greater than 5 but less than 10")
+15         elif x > 10 and x < 20:
+16                 print("It is greater than 10 and less than 20")
+17         else:
+18                 print("waw it's a huge  number!")
+19
+20 lepard(102)
+
+
+
 
 a=input("Number:")
 b=int(a)

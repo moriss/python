@@ -1,5 +1,7 @@
 #MF:1 Use max to find the largest value character 2345
 
+ print(max("l,c"))
+
 
 print(max("Hello"))
 

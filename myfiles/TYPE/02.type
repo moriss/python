@@ -1,5 +1,17 @@
 
 #MF:12  Find out what TYPE some data is.2345
+
+
+10 def lepard():
+11         a='c'
+12         print(type(a))
+13
+14 le
+
+
+
+
+
 def fan():
         a=4
         print(type(a))
