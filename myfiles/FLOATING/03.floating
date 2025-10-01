@@ -1,6 +1,18 @@
+# 3 Convert a value to a FLOATING point number with a try and except 
+10 def lepard():
+11         try:
+12                 a = 9
+13                 print(float(a))
+14         except ValueError:
+15                 print("Not working")
+16
+17 lepard()
+18
 
+
+
+##
 #MF123 Convert 99 to a FLOATING point number 3
-
 def anfela(value):
         a=float(value)
         print(a)
