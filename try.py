@@ -6,15 +6,6 @@
 #STICK WITH V1 UNTIL YOU FEEL CONFIDENT
 
 #TYPE YOUR CODE HERE
-# 3 Convert a value to a FLOATING point number 345 v1
-def lepard():
-	try:
-		a = 9
-		print(float(a))
-	except ValueError:
-		print("Not working")
-
-lepard()
 
 
 # 4 Use the print option to  greet people in there own language. LANGUAGE.456 v1
@@ -22,10 +13,10 @@ lepard()
 # 3  Find out what TYPE some data is 345 v1
 # 3  Test user's number is under specified THRESHOLDS with elif. 345 V1
 # 4 Calculate HOURLY-RATE with time and a half over 40 hours. 45 V1
-
 # 3 Convert a value to a FLOATING point number 345 v1
-# 2 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 2345 v1
-# 2 Ask someone for their name and print HELLO-NAME. 2345 v1
+# 3 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 345 v1
+# 3 Ask someone for their name and print HELLO-NAME. 345 v1
+
 # 1 CALCULATE two variables 1 v2
 # 3  Create a COUNTDOWN from n to zero with a loop 345 v1
 # 4 Convert to US FLOOR_NUMBER from EU floor numbers 456 v1

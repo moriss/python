@@ -1,5 +1,17 @@
 # 2 MF Convert a string(numbers) to an integer 2 STRING_TO_INTEGER v1
 
+
+10 def lepard(telly):
+11         telly = int(telly)
+12         print(telly - 5)
+13
+14 lepard(input("Type a number"))
+15
+
+
+
+
+
 def ang(x):
         a=float(x)
         print(a , "is a number ")
