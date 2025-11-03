@@ -1,5 +1,11 @@
 #MF 1 CALCULATE two variables 12345
 
+a = 5
+13 b = 6
+14 print(a * b)
+15
+
+
 a=8
 b=8
 a,b=float(a),float(b)

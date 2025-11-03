@@ -1,0 +1,14 @@
+ # 3  Create a COUNTDOWN from n to zero with a loop 345 v1
+12 #includes a try and except
+13
+14 def lepard():
+15         try:
+16                 a = ten
+17                 while (a > 0):
+18                         print(a)
+19                         a=a-1
+20         except:
+21                 print("Invalid input")
+22 lepard()
+23
+

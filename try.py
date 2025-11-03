@@ -6,6 +6,11 @@
 #STICK WITH V1 UNTIL YOU FEEL CONFIDENT
 
 #TYPE YOUR CODE HERE
+# 1 CALCULATE two variables 1 v1
+#written simply without def
+# 3  Create a COUNTDOWN from n to zero with a loop 345 v1
+#includes a try and except
+
 
 
 # 4 Use the print option to  greet people in there own language. LANGUAGE.456 v1
@@ -16,9 +21,9 @@
 # 3 Convert a value to a FLOATING point number 345 v1
 # 3 MF Convert a string(numbers) to an integer STRING_TO_INTEGER 345 v1
 # 3 Ask someone for their name and print HELLO-NAME. 345 v1
+# 2 CALCULATE two variables 2345
+# 4  Create a COUNTDOWN from n to zero with a loop 45 v1
 
-# 1 CALCULATE two variables 1 v2
-# 3  Create a COUNTDOWN from n to zero with a loop 345 v1
 # 4 Convert to US FLOOR_NUMBER from EU floor numbers 456 v1
 # 5 Use TRYANDEXCEPT to catch a value error. 5 v1
 # 2 COMPUTEPAY is a two-parameter function that calculates time and a half weekly pay 2345 v1
